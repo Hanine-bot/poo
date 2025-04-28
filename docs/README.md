@@ -8,7 +8,7 @@
  
 1. Book كلاس أساسي للكتاب
 2. EBook للكتب الإلكترونية
-3. PhysicalBook للكتب الورقية
+3. PaperBook للكتب الورقية
 4. Borrower للمستعيرين
 5. BorrowingProcess لتسجيل عمليات الإعارة
 
